@@ -1,0 +1,19 @@
+{
+  "name": "@djutilla/some_tea",
+  "version": "1.0.0",
+  "description": "Some tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djutilla/some_tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djutilla/some_tea/issues"
+  },
+  "homepage": "https://github.com/djutilla/some_tea#readme"
+}
