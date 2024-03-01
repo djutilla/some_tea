@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/djutilla/some_tea.git"
   },
+ "dependencies": {
+    "reservoir" : "0.1.x"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
