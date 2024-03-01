@@ -4,7 +4,8 @@
   "description": "Some tea",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/djutilla/some_tea/issues"
   },
-  "homepage": "https://github.com/djutilla/some_tea#readme"
+  "homepage": "https://github.com/djutilla/some_tea#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
